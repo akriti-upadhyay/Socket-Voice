@@ -48,7 +48,7 @@ Aim : Voice chat using Socket Programming (TCP) and PyAudio module
 ------------
 
 ### How to operate
-1. Run server.py or server.exe specifying the port you want to bind to.
+1. Run server.py or server.exe specifying the port number.
 
 2. To use this program across the internet (using Cloud services such as AWS or GCloud), create an instance and make sure to keep it publically accessible. Using its external IP (using PuTTy) or using the instances SSH terminal instantiate and run the server.py file. 
 
